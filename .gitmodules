@@ -1,0 +1,6 @@
+[submodule "langchain_lcel_rag"]
+	path = langchain_lcel_rag
+	url = https://github.com/Prithu-Sarkar/LANGCHAIN_LCEL_MULTIMODAL_RAG_GENAI_BOT_QA_LORA_QLORA.git
+[submodule "rag_project_e2e"]
+	path = rag_project_e2e
+	url = https://github.com/Prithu-Sarkar/RAG_PROJECT_END-T0-END.git
